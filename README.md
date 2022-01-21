@@ -11,5 +11,9 @@ The city type that saw the lowest totals in rides, drivers, and fares was the ru
 
 ![summary_df.png](https://github.com/CristinaCod/PyBer_Analysis/blob/main/analysis/summary_df.png)
 
+The graph below presents a better illustration in the disparities of total fares based on city types. With the Urban totals lined in yellow we can see as expected they had the highest total fares from January through April. Below that we can see Suburban outlined in Red and Rural outlined in Blue. For all city types there also appeared to be a spike right at the end of February on the same day where almost all city types saw their highest fares from the months of January through April. 
+
+![pyber_fare_summary.png](https://github.com/CristinaCod/PyBer_Analysis/blob/main/analysis/PyBer_Fare_Summary.png)
+
 ## Summary
 ### Recommendations
