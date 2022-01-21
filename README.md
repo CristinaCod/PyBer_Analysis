@@ -17,3 +17,8 @@ The graph below presents a better illustration in the disparities of total fares
 
 ## Summary
 ### Recommendations
+Based on the findings of this analysis it is clear that the Rural city type would benefit greatly from additional resources. Perhaps incentivizing drivers with higher pay rates or benefits would encourage more drivers to sign up and more drivers means more opportunity for more riders and thus higher total fares. 
+
+Additionally, perhaps the reason the Rural city type has such low number is due to the fact that people living are unaware of this service open to them. This could be rectified through better advertising targeted towards the specific people living in this area and their direct needs. 
+
+Another business recommendation would be for PyBer to treat it’s drivers as if this is their main source of income. PyBer could pay a livable wage so that individuals can do this as their full-time job. When you think of taxi drivers in New York City most times that is their full-time job and they can support themselves through those means because there is such a high demand, they will always have an income. However, when you think of other ride-sharing companies those drivers just do this work on the side to make some extra cash on top of a regular full-time job. If PyBer treated its drivers as full-time employees and paid them as such they could ensure always having a sufficient amount of drivers. 
