@@ -9,5 +9,7 @@ The second highest rates were seen in the Suburban city type with approximately 
 
 The city type that saw the lowest totals in rides, drivers, and fares was the rural type totaling a miniscule fraction of the other city types with only 125 total rides and 78 drivers. Again, as we saw in the Suburban city type this lack of resources created an even greater surge in the average fare per ride and driver. With the highest rates of $34.62 per ride and $55.49 per driver. 
 
+![summary_df.png](https://github.com/CristinaCod/PyBer_Analysis/blob/main/analysis/summary_df.png)
+
 ## Summary
 ### Recommendations
